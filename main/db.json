@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "location": {
+        "name": "New York"
+      },
+      "predicted_demand": {
+        "value": "22"
+      },
+      "current_supply": {
+        "value": "16"
+      },
+      "demand_supply": {
+        "value": "13"
+      },
+      "target_fleet": {
+        "value": "12"
+      }
+    },
+    {
+      "location": {
+        "name": "Los Angeles"
+      },
+      "predicted_demand": {
+        "value": "11"
+      },
+      "current_supply": {
+        "value": "7"
+      },
+      "demand_supply": {
+        "value": "5"
+      },
+      "target_fleet": {
+        "value": "11"
+      }
+    }
+  ]
+}
